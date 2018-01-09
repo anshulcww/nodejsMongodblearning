@@ -8,11 +8,15 @@
   },
   "author": "",
   "license": "ISC",
-  "dependies":{
-	"express":"*",	
-	"body-parser":"*",	
-	"mongoose":"*"
-		
+  "dependies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "tachyons": "^4.9.0"
+  },
+  "dependencies": {
+    "mongodb": "^3.0.1"
+  }
 }
-}
-
